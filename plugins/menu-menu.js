@@ -33,7 +33,7 @@ let str = `
 
 *╭────────────────────*
 
-*│*  *⸙@noureddine_ouafy*
+*│*  *⸙https://chat.whatsapp.com/HgFwqqDUiQh66hmehZPCRw*
 
 *╰────────────────────*
 
@@ -71,7 +71,7 @@ let str = `
 
 *╰────────────────────*
 
-https://instagram.com/noureddine_ouafy
+https://chat.whatsapp.com/HgFwqqDUiQh66hmehZPCRw
 `.trim()
 let buttons = [
 { buttonId: '#donar', buttonText: { displayText: '📮 ♥ 📮' }, type: 1 },
@@ -90,10 +90,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: 'instagram.com/noureddine_ouafy',
+title: 'https://chat.whatsapp.com/HgFwqqDUiQh66hmehZPCRw',
 body: null,
 thumbnail: img,
-sourceUrl: `https://www.instagram.com/noureddine_ouafy`
+sourceUrl: `https://chat.whatsapp.com/HgFwqqDUiQh66hmehZPCRw`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
