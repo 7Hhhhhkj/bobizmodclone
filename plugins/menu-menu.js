@@ -27,7 +27,7 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 *╭────────────────────*
 
-                  *BOBIZ BOT*
+                  *RAIZEL BOT*
 
 *╰────────────────────*
 
